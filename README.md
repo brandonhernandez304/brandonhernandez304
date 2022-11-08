@@ -3,6 +3,9 @@ I am an aspiring full stack software engineer trying to learn everything that I 
 ## 👀 Interests Aside from Coding
 New tech (I've built my own computer so I love keeping up with the latest on hardware), all things exercise science + fitness related, fighting games (street fighter is my fave), comics + manga
 
+## My Portfolio
+[Click here!](https://brandon-a-hernandez.vercel.app/)
+
 ## My Tech Stack
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
