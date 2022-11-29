@@ -22,9 +22,7 @@ New tech (I've built my own computer so I love keeping up with the latest on har
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## I'm Currently Learning
-![](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
-![](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
-
+![](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 
 ## 📫 How to reach me 
